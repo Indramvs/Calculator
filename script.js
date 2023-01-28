@@ -1,10 +1,3 @@
-function disable(){
-    document.onkeydown
- {
-  return false;
- }
-}
-
 let result = "";
 let state = true;
 
